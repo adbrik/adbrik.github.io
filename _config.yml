@@ -2,12 +2,10 @@ title: ~arik$
 author: Arik Barenboim  
 email: arikbarenboim @ gmail . com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi there, I am Arik and I am Com Sci student! Currently based out of Ottawa,
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 3
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty

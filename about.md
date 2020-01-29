@@ -1,1 +1,1 @@
-<meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL">
+<h2 href="youtube://">CLICK HERE</h2>

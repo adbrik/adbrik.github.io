@@ -1,8 +1,9 @@
-title: ~arik$
+title: ~Arik$
 author: Arik Barenboim  
 email: arikbarenboim @ gmail . com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there, I am Arik and I am Com Sci student! Currently based out of Ottawa,
+description: # this means to ignore newlines until "show_exerpts:"
+  Hi I'm Arik! I'm currently a Computer Science student based in Ottawa/Toronto. 
+  My interests are Data Science and Programming. I occasionally make stuff and write blog posts about it. 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -26,9 +27,6 @@ dash:
     - url: https://linkedin.com/in/arikbarenboim
       icon: linkedin
       color: cyan
-    - url: https://arik.ca
-      icon: itch-io
-      color: red
     - url: https://github.com/adbrik
       icon: github-square
       color: purple

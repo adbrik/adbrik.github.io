@@ -1,8 +1,8 @@
-title: ~Arik$
+title: ~Arik
 author: Arik Barenboim  
 email: arikbarenboim @ gmail . com
 description: # this means to ignore newlines until "show_exerpts:"
-  Hi I'm Arik! I'm currently a Computer Science student based in Ottawa/Toronto. 
+  I'm a Computer Science student based in Ottawa/Toronto. 
   My interests are Data Science and Programming. I occasionally make stuff and write blog posts about it. 
 show_excerpts: false # set to true to show excerpts on the homepage
 

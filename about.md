@@ -4,15 +4,15 @@ layout: post
 You can contact me at arikbarenboim at gmail dot com
 # Work Experience 
 
-**Barracuda MSP (CO-OP)**,  Jan - April 2020
+**Barracuda MSP (CO-OP)**:  Jan - April 2020
 
 * C#, ASP.NET, Microsoft SQL, jQuery
 
-**Royal Canadian Mounted Police (CO-OP)**,  May - Aug 2019
+**Royal Canadian Mounted Police (CO-OP)**:  May - Aug 2019
 
 * C#, ASP.NET, Bash, jQuery
 
-**Teaching Assistant @ University of Ottawa**,  Jan - April 2019 & Jan - April 2020
+**Teaching Assistant @ University of Ottawa**:  Jan - April 2019 & Jan - April 2020
 
 * Was a TA for two terms; the course was Introduction to Computing II, taught in Java
 
@@ -29,5 +29,5 @@ You can contact me at arikbarenboim at gmail dot com
 
 # Education
 
-**University of Ottawa**, 2017 - Present
+**University of Ottawa** 2017 - Present
 * Computer Science, 3rd year

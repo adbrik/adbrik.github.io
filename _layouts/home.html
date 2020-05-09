@@ -2,13 +2,14 @@
 layout: default
 ---
 {% include author.html %}
-{% assign posts_count = paginator.posts | size %}
-{% if posts_count > 0 %}
-<h1>view my cv</h1>
+<h2>view my cv</h2>
 <div class="post-links">
     <div class="post-link-wrapper">
       <a href="/about" class="post-link">Click Here!</a>
     <div>
+</div>
+{% assign posts_count = paginator.posts | size %}
+{% if posts_count > 0 %}
 <h1>recent articles</h1>
     <div class="post-links">
       {% for post in paginator.posts %}

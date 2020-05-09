@@ -11,18 +11,14 @@ layout: default
       {% endfor %}
   </div>
   {% endif %}
+  {% if page.isdate == "yes"%}
   <div class="post-date">Published on {{ page.date | date_to_string }}</div>
+  {% endif %}
   {% if page.description != null %}
   <div class="post-description">{{ page.description }}</div>
   {% endif %}
   {{ content }}
 </div>
-
-{% if site.dash.disqus.shortname %}
-<div class="comments">
-{% include disqus.html %}
-</div>
-{% endif %}
 
 {% assign size = site.related_posts | size %}
 {% if size != 0 %}

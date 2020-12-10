@@ -4,6 +4,10 @@ layout: post
 You can contact me at arikbarenboim at gmail dot com
 # Work Experience 
 
+**CIBC Capital Markets (CO-OP)**:  Sept - Dec 2020
+
+* C#, Python, ASP.NET, Flask, Microsoft SQL, jQuery, SignalR
+
 **Barracuda MSP (CO-OP)**:  Jan - April 2020
 
 * C#, ASP.NET, Microsoft SQL, jQuery
